@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agentic Site Sales OS"
+  short_description: "Operate site sales from lead to revenue"
+  default_prompt: "Use $agentic-site-sales-os to start or continue my site-sales operation one stage at a time."
