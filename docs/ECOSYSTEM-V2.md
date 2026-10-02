@@ -527,3 +527,37 @@ Complete one full real commercial loop:
 ```
 
 The first paid cycle is the primary commercial proof of the ecosystem.
+
+
+## 17. Daily Workspace OS
+
+Agentic Site Sales OS should become the user's primary operating environment, not another tool that must be remembered.
+
+Integrate:
+- HunterX prospecting;
+- durable lead history;
+- visual funnel;
+- messaging workspace;
+- flow-driven outreach;
+- AI Sales Copilot inside each conversation;
+- proofs and proposals;
+- site production;
+- CRM learning.
+
+Canonical design: `docs/WORKSPACE-OS.md`.
+
+### Sales strategy requirement
+
+Before active outreach, each opportunity must have an explicit sales strategy selected from researched candidate approaches.
+
+Selection should consider:
+- buyer complexity;
+- deal value;
+- trust requirement;
+- problem clarity;
+- evidence/proof available;
+- number of stakeholders;
+- cycle length;
+- inbound/outbound motion.
+
+The strategy itself is a hypothesis until market evidence validates it.
